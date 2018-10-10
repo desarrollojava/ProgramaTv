@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">	
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>CineSite | Bienvenido</title>
+	<title>Programas tv | Bienvenido</title>
 	<spring:url value="/resources" var="urlPublic" />
 		
 	<link href="${urlPublic}/bootstrap/css/bootstrap.min.css" rel="stylesheet">	
